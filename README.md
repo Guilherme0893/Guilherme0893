@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying full stack web development at **Trybe**
 
-- 🌱 I’m currently learning **back-end development**
+- 🌱 I’m currently learning **full stack web development**
 
 - 👯 I’m looking to collaborate on **improving people's life with technology**
 
